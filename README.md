@@ -1,4 +1,4 @@
-# fibonacci_calculators
+# fibonacci-calculators
 Provide two different ways to calculate fibonacci
 
 ## install
