@@ -4,7 +4,7 @@ with open('README.md', 'rt', encoding='utf8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='fibonacci-calculator',
+    name='fibonacci_calculator',
     version='0.0.1',
     author='Leon Feng',
     author_email='leonlibinfeng@gmail.com',
