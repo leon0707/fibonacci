@@ -1,2 +1,2 @@
-# fibonacci
+# fibonacci-calculator
 An example for python packaging
