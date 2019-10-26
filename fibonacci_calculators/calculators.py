@@ -1,12 +1,12 @@
-def fibonacci_dfs(num):
+def fib_dfs(num):
 	if num < 0:
 		raise ValueError('Input number cannot be negetive')
 	elif num < 2:
 		return num
 	else:
-		return fibonacci_dfs(num - 1) + fibonacci_dfs(num - 2)
+		return fib_dfs(num - 1) + fib_dfs(num - 2)
 
-def fibonacci_dp(num):
+def fib_dp(num):
 	if num < 0:
 		raise ValueError('Input number cannot be negetive')
 	elif num < 2:
