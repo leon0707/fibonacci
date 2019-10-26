@@ -5,7 +5,7 @@ with open('README.md', 'rt', encoding='utf8') as fh:
 
 setuptools.setup(
     name='fibonacci_calculators',
-    version='0.0.1',
+    version='0.0.2',
     author='Leon Feng',
     author_email='leonlibinfeng@gmail.com',
     description='A package to calculate fibonacci number',
