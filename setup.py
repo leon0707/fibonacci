@@ -12,8 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/leon0707/fibonacci-calculator',
-    packages=setuptools.find_packages('fibonacci_calculator'),
-    package_dir={'': 'fibonacci_calculator'},
+    packages=['fibonacci_calculator'],
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
