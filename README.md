@@ -1,4 +1,6 @@
 # fibonacci-calculators
+[![CircleCI](https://circleci.com/gh/leon0707/fibonacci-calculators.svg?style=svg)](https://circleci.com/gh/leon0707/fibonacci-calculators)
+
 Provide two different ways to calculate fibonacci
 
 ## install
